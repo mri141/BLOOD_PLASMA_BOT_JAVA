@@ -15,8 +15,8 @@
 * Java (logic)
 * XML (design)
 * Paint.Net (Image editting)
-
-Abstract
+<br>
+Abstract<br>
 The aim of our project is to save lives of people by providing blood to them whenever
 required. Our project i.e Blood Plasma Bot Application using Android studio is
 developed so that users can view the information of nearby hospitals, blood banks and
@@ -36,10 +36,10 @@ let them know that the user has met with an accidentwithout any wastage of time.
 this application provides the required information quicker and also helps in giving the
 right treatment at the right time.
 
-
-CHAPTER 1
-INTRODUCTION
-1.1 Introduction
+<br><br>
+CHAPTER 1<br>
+INTRODUCTION<br>
+1.1 Introduction<br>
 Mobile technology has been helping us to tackle almost every problem that humans face
 today. Evidently, since the start of mobile applications their usage has been tremendous.
 So much so that more than 80% of human activities on smart phones has been on
@@ -60,39 +60,39 @@ locality through address and then request for the blood in case of emergency. Th
 will be able to view information about different blood donors, the information of the
 registers users who need blood in case of emergency and the blood donors who wish to
 donate blood when required. All the personal information about blood donors will be
-kept at the real time database.
+kept at the real time database.<br>
 We can improve the efficiency of the Blood Plasma Bot system, thus overcome the
-drawbacks of the existing system.
-The system will do the following activities:
+drawbacks of the existing system.<br>
+The system will do the following activities:<br>
 i. New User registration
-6
-ii. Update user profile
-iii. Remove user from the system
-iv. Record Realtime user details
-1.2 Objectives
-The objectives of the project are follows:
-i. To make an application that reduce the time to manage blood.
-ii. To keep real-time record of donor.
-iii. To communicate with donor from donor details.
-iv. To easy to search donor list in one click.
-1.3 Key Benefits
-This system has many features. Some of them are below:
-i. User Friendly Interface
+<br>
+ii. Update user profile<br>
+iii. Remove user from the system<br>
+iv. Record Realtime user details<br><br>
+1.2 Objectives<br>
+The objectives of the project are follows:<br>
+i. To make an application that reduce the time to manage blood.<br>
+ii. To keep real-time record of donor.<br>
+iii. To communicate with donor from donor details.<br>
+iv. To easy to search donor list in one click.<br><br>
+1.3 Key Benefits<br>
+This system has many features. Some of them are below:<br>
+i. User Friendly Interface<br>
 The user interface is just awesome. Anybody can operate the application with
-some basic knowledge of Android mobile
+some basic knowledge of Android mobile<br>
 ii. Admin Privileges
-In this system, admin can view, update, remove any profiles etc.
-iii. Security
+In this system, admin can view, update, remove any profiles etc.<br>
+iii. Security<br>
 Login system is implemented. So, only admin can control the operations and
-user can only registration and view. All activities are recorded in firebase realtime database and available to all users.
-iv. Time Savings
+user can only registration and view. All activities are recorded in firebase realtime database and available to all users.<br>
+iv. Time Savings<br>
 In manual Blood manage system, the patient has to register in a waiting list for
 specific blood type even in cases of emergency. But in our application user easy
 to search donor list in one click.
-7
-CHAPTER 2
-BACKGROUND KNOWLEDGE
-2.1 Introduction
+<br><br>
+CHAPTER 2<br>
+BACKGROUND KNOWLEDGE<br>
+2.1 Introduction<br>
 The number of voluntary donors has been increased compared to blood donors that are
 being paid. about Though there is an increase in voluntary blood donor, because of lack
 of information blood donation, many people are not being able to donate blood. Because
@@ -103,8 +103,8 @@ advert placement of donation of blood the patient may still not get the required
 of blood needed at that particular time which is slow for information retrieval and
 processing and also prone to errors in an emergency situation. But in Blood Finder
 application easy to search of available blood donors in nearby areas in cases on
-emergencies without any delay.
-2.2 Literature Review
+emergencies without any delay.<br><br>
+2.2 Literature Review<br>
 The system we present here is adequate for searching blood donors for available blood
 and thereby saving valuable time and money. This application provides necessary
 options to serve people on their emergency need making them free from worrying for
@@ -117,128 +117,127 @@ home page. They can modify their account information by updating username, mobil
 number, blood group and contact details. A user is able to search blood request from the
 search page. This application provides donors details and contact number. It will make
 easier to find and contact with donors when needed
-8
-2.3 Problem Statement
+<br><br>
+2.3 Problem Statement<br>
 In manual Blood Plasma Bot system usually patient parents request blood through
 advertising on televisions or social media, with the series of advert placement of
 donation of blood the patient may still not get the required amount of blood needed at
 that particular time which is slow for information retrieval and processing and also prone
 to errors in an emergency situation. But using android mobile application Blood, easy
 to search of available blood donors in nearby areas in cases on emergencies without any
-delay.
-CHAPTER 3
-PROPOSED SYSTEM ANALYSIS AND DESIGN
-3.1 Introduction
+delay.<br><br>
+CHAPTER 3<br>
+PROPOSED SYSTEM ANALYSIS AND DESIGN<br>
+3.1 Introduction<br>
 The Blood Plasma Bot application is android mobile based project. By using of this
 application people who want to donate their blood can register in this application by
 their details and person who needs blood can search and find the blood which group
 they need. After searching a list of donors will be displayed then the user can
-communicate with donor easily.
-3.2 System Analysis
+communicate with donor easily.<br><br>
+3.2 System Analysis<br>
 System analysis is the process of gathering and interpreting facts, diagnosing problems
 and using the information to recommend improvements on the system. System analysis
 is a problem-solving activity that requires intensive communication between the system
-users and system developers.
+users and system developers.<br>
 System analysis or study is an important phase of any system development process. The
 system is viewed as a whole, the inputs are identified and the system is subjected to
 close study to identify the problem areas. The solutions are given as a proposal. The
-9
 proposal is reviewed on user request and suitable changes are made. This loop ends as
-soon as the user is satisfied with the proposal.
+soon as the user is satisfied with the proposal.<br>
 The existing system is not totally automated. Though the system is computerized to a
-particular extent, it has not to do a lot of manual work. The different processes involved
-are:
-i. Registration by Mobile Number instead of Email.
-ii. Authentication for Mobile Number.
-iii. User friendly.
-iv. High security.
-v. Easy to registration.
-vi. Easy to search donor.
-vii. Data can updated be easily because we use firebase real-time database.
-3.3 System Design
+particular extent, it has not to do a lot of manual work. <br>The different processes involved
+are:<br>
+i. Registration by Mobile Number instead of Email.<br>
+ii. Authentication for Mobile Number.<br>
+iii. User friendly.<br>
+iv. High security.<br>
+v. Easy to registration.<br>
+vi. Easy to search donor.<br>
+vii. Data can updated be easily because we use firebase real-time database.<br><br>
+3.3 System Design<br>
 The system can be installed in any Android phone and required a machine with Pentium
 IV processor, 512 MB ram, 1GB sstorage to implement the system. The system is
-implemented in JDK11.0.1, Android 4.4(Kit Kat), java, Kotlin, and Android Studio.
-3.4 Use case diagram
+implemented in JDK11.0.1, Android 4.4(Kit Kat), java, Kotlin, and Android Studio.<br><br>
+3.4 Use case diagram<br>
 SEEKER: In case of emergency, they can request for blood in which it gives
 information about the donors present in that city. After getting the information they can
-contact the donor.
+contact the donor.<br><br>
 DONOR: The donors will register their details in the application and whenever the
 blood is required, they will be contacted by the acceptor within his/her specified city.
 
-
-CHAPTER 5
-TOOLS AND TECHNOLOGY USED
-5.1 Development Tools
+<br><br>
+CHAPTER 5<br>
+TOOLS AND TECHNOLOGY USED<br>
+5.1 Development Tools<br>
 Many tools are used to develop the Application. Some of them are used for development
 purpose and some of them are part of this application. Without them Blood Plasma Bot
-Application cannot work properly.
-5.2 Android Studio
+Application cannot work properly.<br><br>
+5.2 Android Studio<br>
 Android Studio is the official integrated development environment (IDE) for Google's
 Android operating system, built on JetBrains' IntelliJ IDEA software and designed
 specifically for Android development. It is available for download on Windows, macOS
 and Linux based operating systems. It is a replacement for the Eclipse Android
 Development Tools (ADT) as the primary IDE for native Android application
-development.
-The following features are provided in the current stable version:
-• Gradle-based build support
-• Android-specific refactoring and quick fixes
+development.<br>
+The following features are provided in the current stable version:<br>
+• Gradle-based build support<br>
+• Android-specific refactoring and quick fixes<br>
 • Lint tools to catch performance, usability, version compatibility and other
-problems
-• ProGear integration and app-signing capabilities
-• Template-based wizards to create common Android designs and components
+problems<br>
+• ProGear integration and app-signing capabilities<br>
+• Template-based wizards to create common Android designs and components<br>
 • A rich layout editor that allows users to drag-and-drop UI components, option to
-preview layouts on multiple screen configurations
-• Support for building Android Wear apps
+preview layouts on multiple screen configurations<br>
+• Support for building Android Wear apps<br>
 • Built-in support for Google Cloud Platform, enabling integration with Firebase
-Cloud Messaging (Earlier 'Google Cloud Messaging') and Google App Engine
-• Android Virtual Device (Emulator) to run and debug apps in the Android studio.
-41
+Cloud Messaging (Earlier 'Google Cloud Messaging') and Google App Engine<br>
+• Android Virtual Device (Emulator) to run and debug apps in the Android studio.<br>
+<br>
 Android Studio supports all the same programming languages of IntelliJ (and CLion)
 e.g., Java, C++, and Kotlin etc. But we use java in Blood Finder application. Because
 java is a general-purpose programming language that is class-based, object-oriented,
-and designed to have as few implementation dependencies as possible.
-5.3 Firebase Realtime Database
+and designed to have as few implementation dependencies as possible.<br><br>
+5.3 Firebase Realtime Database<br>
 The Firebase Realtime Database lets you build rich, collaborative applications by
 allowing secure access to the database directly from client-side code. Data is persisted
 locally, and even while offline, Realtime events continue to fire, giving the end user a
 responsive experience. When the device regains connection, the real-time Database
 synchronizes the local data changes with the remote updates that occurred while the
-client was offline, merging any conflicts automatically.
+client was offline, merging any conflicts automatically.<br>
 The Realtime Database provides a flexible, expression-based rules language, called
 Firebase Realtime Database Security Rules, to define how your data should be
 structured and when data can be read from or written to. When integrated with Firebase
 Authentication, developers can define who has access to what data, and how they can
-access it.
+access it.<br>
 The Realtime Database is a NoSQL database and as such has different optimizations
 and functionality compared to a relational database. The Realtime Database API is
 designed to only allow operations that can be executed quickly. This enables you to
 build a great real-time experience that can serve millions of users without compromising
 on responsiveness. Because of this, it is important to think about how users need to
-access your data and then structure it accordingly.
-5.3.1 Key capabilities
+access your data and then structure it accordingly.<br><br>
+5.3.1 Key capabilities<br>
 I. Real-time: Instead of typical HTTP requests, the Firebase Realtime Database
 uses data synchronization every time data changes, any connected device receives
 that update within milliseconds. Provide collaborative and immersive experiences
-without thinking about networking code.
-42
+without thinking about networking code.<br>
+
 II. Offline: Firebase apps remain responsive even when offline because the Firebase
 Realtime Database SDK persists your data to disk. Once connectivity is reestablished, the client device receives any changes it missed, synchronizing it
-with the current server state.
+with the current server state.<br>
 III. Accessible from Client Devices: The Firebase Realtime Database can be
 accessed directly from a mobile device or web browser; there’s no need for an
 application server. Security and data validation are available through the Firebase
 Realtime Database Security Rules, expression-based rules that are executed when
-data is read or written.
+data is read or written.<br>
 IV. Scale across multiple databases: With Firebase Realtime Database on the Blaze
 pricing plan, you can support your app's data needs at scale by splitting your data
 across multiple database instances in the same Firebase project. Streamline
 authentication with Firebase Authentication on your project and authenticate
 users across your database instances. Control access to the data in each database
-with custom Firebase Realtime Database Rules for each database instance.
-CHAPTER 6
-CONCLUSION
-6.1 introduction
+with custom Firebase Realtime Database Rules for each database instance.<br><br>
+CHAPTER 6<br>
+CONCLUSION<br>
+6.1 introduction<br>
 Technology is introducing new innovations day by day, thus reducing the time required
 to do things. The proposed system can be used to reduce the time required to deliver
 required blood to the needy in cases of emergency. The Android application can be used
@@ -248,24 +247,24 @@ provides them with the facility of communicating with the nearby donors in emerg
 The database is a vital aspect of the system. The Android application is developed using
 Android Studio & Kotlin these are the open-source software, hence the system
 developed is quite feasible.
-43
-6.2 Limitations
+<br><br>
+6.2 Limitations<br>
 There are some drawbacks and limitations in this software as it is a beta release and
-under future development process.
-i. Need to install first on android before using.
+under future development process.<br>
+i. Need to install first on android before using.<br>
 ii. Platform is not independent. So, it may not run on different operating systems
-like iOS.
-iii. Some minor bugs exist
-iv. Limited features, need to explore.
-6.3 Future Goals
+like iOS.<br>
+iii. Some minor bugs exist<br>
+iv. Limited features, need to explore.<br><br>
+6.3 Future Goals<br>
 In future, the above concept can be utilized for large scale blood plasma donation
 management system. Further the application will be featured with the independent and
 manual location tracking of donor and receiver, verification of the donor can be done
 with more authenticated process. the message publication or the broadcasting of
 advertisement process can be introduced in all the popular social media rather than only
-on social websites like Facebook, WhatsApp, television radio etc.
-• We can update our user interface.
-• Adding chat option in our system for live communication.
-• We can also add chat bot services for notify every donor.
-• Add google map for patient exact location.
-
+on social websites like Facebook, WhatsApp, television radio etc.<br>
+• We can update our user interface.<br>
+• Adding chat option in our system for live communication.<br>
+• We can also add chat bot services for notify every donor.<br>
+• Add google map for patient exact location.<br>
+<br><br>
